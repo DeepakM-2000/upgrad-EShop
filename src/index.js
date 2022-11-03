@@ -4,8 +4,6 @@ import './index.css';
 import Controller from './components/controller'
 
 ReactDOM.render(
-  <React.StrictMode>
-     <Controller />
-  </React.StrictMode>,
+     <Controller />,
   document.getElementById('root')
 );
